@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">LiveWallpaper</string>
+    <string name="label_invalid_input">Invalid Input</string>
+    <string name="label_number_of_circles">numberOfCircles</string>
+
+
+    <string name="label_number_circles">Number of Circles</string>
+    <string name="label_touch">touch</string>
+    <string name="label_enable_touch">Enable Touch</string>
+    <string name="label_click_here">Set WallPaper</string>
 </resources>
