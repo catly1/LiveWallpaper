@@ -6,7 +6,6 @@ import android.preference.PreferenceActivity
 import android.widget.Toast
 
 class MyPreferencesActivity : PreferenceActivity() {
-
     /**
      * Checks that a preference is a valid numerical value
      */
