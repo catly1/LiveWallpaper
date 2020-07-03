@@ -16,7 +16,7 @@
         android:paddingEnd="@dimen/dimen_25dp"
         android:onClick="onClick"
         style="@style/button_style"
-        android:text="@string/lable_click_here"
+        android:text="@string/label_click_here"
         android:layout_marginTop="@dimen/dimen_10dp"/>
 
 
